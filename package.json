@@ -1,0 +1,15 @@
+{
+  "name": "noel_ryan",
+  "version": "yep",
+  "description": "A_address_book_in_javascript",
+  "main": "index.js",
+  "repository": "https://github.com/Noelryn/address_book_js_2019.git",
+  "author": "Noel Ryan <noelgerard.ryan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^5.1.0",
+    "puppeteer": "^1.14.0",
+    "superstatic": "^6.0.4"
+  }
+}
